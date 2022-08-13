@@ -1,0 +1,39 @@
+{
+    "name": "Dust Flip #76",
+    "symbol": "DF",
+    "description": "Dust Flip #76 - Fully functioning coin flip casino utilizing the Dust Protocol.",
+    "seller_fee_basis_points": 1000,
+    "image": "https://nftstorage.link/ipfs/bafybeihoo3faop62gogixbxxjv7fzhwefzxhs3p6qu6d6fasplalywyuki/734.jpeg",
+    "external_url": "",
+    "collection": {
+        "name": "Dust Flip",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Rarity Rank",
+            "value": 699,
+            "display_type": "number",
+            "max_value": 999
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeihoo3faop62gogixbxxjv7fzhwefzxhs3p6qu6d6fasplalywyuki/734.jpeg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "447FjDx99Cke823nqPLQCMKLEapYw7LErkGvFYssyJ4Z",
+                "share": 100
+            }
+        ]
+    }
+}
