@@ -3,7 +3,7 @@
     "symbol": "DF",
     "description": "Dust Flip #978 - Fully functioning coin flip casino utilizing the Dust Protocol.",
     "seller_fee_basis_points": 1000,
-    "image": "https://nftstorage.link/ipfs/bafybeihoo3faop62gogixbxxjv7fzhwefzxhs3p6qu6d6fasplalywyuki/976.jpeg",
+    "image": "https://github.com/helixDevelopment/df/blob/master/silver.gif",
     "external_url": "",
     "collection": {
         "name": "Dust Flip",
@@ -22,12 +22,10 @@
         }
     ],
     "properties": {
-        "files": [
-            {
-                "uri": "https://nftstorage.link/ipfs/bafybeihoo3faop62gogixbxxjv7fzhwefzxhs3p6qu6d6fasplalywyuki/976.jpeg",
-                "type": "image/jpeg"
-            }
-        ],
+        "files": {
+            "uri": "https://github.com/helixDevelopment/df/blob/master/silver.gif",
+            "type": "image/gif"
+        },
         "category": "image",
         "creators": [
             {
