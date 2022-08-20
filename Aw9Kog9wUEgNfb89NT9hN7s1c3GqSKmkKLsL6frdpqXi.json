@@ -3,7 +3,7 @@
     "symbol": "DF",
     "description": "Dust Flip #923 - Fully functioning coin flip casino utilizing the Dust Protocol.",
     "seller_fee_basis_points": 1000,
-    "image": "https://github.com/helixDevelopment/df/blob/master/platinum.gif",
+    "image": "https://raw.githubusercontent.com/helixDevelopment/df/master/platinum.gif",
     "external_url": "",
     "collection": {
         "name": "Dust Flip",
@@ -23,7 +23,7 @@
     ],
     "properties": {
         "files": {
-            "uri": "https://github.com/helixDevelopment/df/blob/master/platinum.gif",
+            "uri": "https://raw.githubusercontent.com/helixDevelopment/df/master/platinum.gif",
             "type": "image/gif"
         },
         "category": "image",
